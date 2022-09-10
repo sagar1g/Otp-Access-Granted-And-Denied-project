@@ -1,4 +1,4 @@
-> Otp access granted and denied project
+> **Otp access granted :x: and denied project**
 
  A Berif introduction about this project
  
