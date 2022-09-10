@@ -22,4 +22,4 @@ python language
 
 . I learned and understood the background of properties of the random module
 
-![my image](https://thumbs.dreamstime.com/z/access-granted-24907039.jpg)
+![my image](https://thumbs.dreamstime.com/b/access-granted-denied-signs-53432339.jpg)
