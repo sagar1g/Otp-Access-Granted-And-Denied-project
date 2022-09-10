@@ -10,7 +10,7 @@
 
 - [ ] When system  the generate  an random otp. 
 
-- [ ] When otp generate the user have to put correct otp then this system gone granted access.
+- [ ] When otp generate the user have to put correct otp then this system gonna granted access.
 
 - [ ] If some how  user put a wrong otp or mismatch the otp then this system denied your access.
 
