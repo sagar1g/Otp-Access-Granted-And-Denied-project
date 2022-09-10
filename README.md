@@ -1,3 +1,8 @@
+```mermaid
+flowchart LR
+id1{{otp access granted and denied project}}
+```
+
 > **Otp access granted ✔️ and denied ❌ project**
 
  *A Berif introduction about this project*
