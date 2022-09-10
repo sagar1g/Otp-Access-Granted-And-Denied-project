@@ -2,7 +2,7 @@
 
  *A Berif introduction about this project*
  
->  **INTRODUCTION**:-
+>  **INTRODUCTION** :-
 
 - It is otp access granted and denied  based on project
 
@@ -14,11 +14,11 @@
 
 - [ ] If some how  user put a wrong otp or mismatch the otp then this system denied your access.
 
-> **Dependencies**:- 
+> **Dependencies** :- 
 
 - [x] python language
 
-> **Conclusion**:
+> **Conclusion** :-
 
 - [ ] I learned and understood the background of properties of the random module
 
