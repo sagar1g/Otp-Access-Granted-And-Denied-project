@@ -1,4 +1,4 @@
-> OTP ACCESS GRANTED AND DENIED PROJECT
+>https://thumbs.dreamstime.com/z/access-granted-24907039.jpg)
 
  A Berif introduction about this project
  
@@ -14,7 +14,12 @@
 
 . If some how  user put a wrong otp or mismatch the otp then this system denied your access.
 
+> Dependencies:- 
+
+python language
+
 > Conclusion:
 
 . I learned and understood the background of properties of the random module
- 
+
+![my image](https://thumbs.dreamstime.com/z/access-granted-24907039.jpg)
