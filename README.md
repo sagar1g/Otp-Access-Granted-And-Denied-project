@@ -1,4 +1,4 @@
-> **Otp access granted :✔️: and denied :x: project**
+> **Otp access granted ✔️ and denied ❌ project**
 
  *A Berif introduction about this project*
  
