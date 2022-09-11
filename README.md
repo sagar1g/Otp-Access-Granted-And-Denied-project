@@ -3,7 +3,7 @@ flowchart LR
 id1{{otp access granted and denied project}}
 ```
 
-> **Otp access granted ✔️ and denied ❌ project**
+> # Otp access granted ✔️ and denied ❌ project
 
  - [x] *A Berif introduction about this project*
  
